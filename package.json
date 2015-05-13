@@ -1,0 +1,19 @@
+{
+  "name": "sqlz-talk",
+  "version": "1.0.0",
+  "description": "Sequilize Intro Talk for NodeMN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikefrey/sqlz-talk.git"
+  },
+  "author": "Mike Frey <frey.mike@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikefrey/sqlz-talk/issues"
+  },
+  "homepage": "https://github.com/mikefrey/sqlz-talk#readme"
+}
